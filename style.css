@@ -22,6 +22,7 @@ a{
     text-decoration: none;
     padding: 13px 13px;
     color: white;
+    -webkit-user-drag: none;
 }
 .menu_item:hover{
     background-color: #909590;
